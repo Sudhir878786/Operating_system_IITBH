@@ -1,0 +1,9 @@
+total 76
+drwxr-xr-x 2 gearhead gearhead  4096 Mar 12 08:06 .
+drwxrwxrwx 3 gearhead gearhead  4096 Mar 12 05:00 ..
+-rwxr-xr-x 1 gearhead gearhead 21736 Mar 12 08:04 a.out
+-rw-r--r-- 1 gearhead gearhead     0 Mar 12 08:06 list.txt
+-rw-r--r-- 1 gearhead gearhead  7039 Mar 12 04:11 PART_A.c
+-rw-r--r-- 1 gearhead gearhead 12341 Mar 12 04:10 PART_B.c
+-rw-r--r-- 1 gearhead gearhead 13773 Mar 12 04:32 PARTC.c
+-rw-r--r-- 1 gearhead gearhead  1844 Mar 12 07:56 Readme.md
