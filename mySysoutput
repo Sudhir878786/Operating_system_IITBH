@@ -1,0 +1,151 @@
+-------------------------------System Information----------------------------
+02-18-2022
+Hostname:		gearhead
+System uptime:			1:55 1
+Main Memory Size MemTotal: 4011068 kB
+Version:		1.2
+Machine Type:		VM
+Operating System:	Rolling
+Kernel:			5.15.0-kali3-amd64
+Architecture:		x86_64
+Active User:		gearhead
+System IP address:		10.0.2.15
+------------------Number of jobs in kernal space-------------------------------
+79
+------------------Number of jobs in user space-------------------------------
+-------------------------------CPU/Memory Usage------------------------------
+RAM Usage:	45.34%
+cpu cores	: 3
+CPU Usage:	5.70%
+CPU TYPE  vendor_id : GenuineIntel
+CPU model name   model name : 11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz
+
+-------------------------------Partions and disk usage--------------------------- 
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           392M  996K  391M   1% /run
+/dev/sda2        48G   15G   32G  32% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda1       511M  148K  511M   1% /boot/efi
+tmpfs           392M   92K  392M   1% /run/user/1000
+----------------------------------TOTAL HARD DISK SIZE------------------------------
+Disk /dev/sda: 50 GiB, 53687091200 bytes, 104857600 sectors
+Disk model: VBOX HARDDISK   
+Disklabel type: gpt
+Disk identifier: E350A34F-D3BF-4681-9567-D494E5860F92
+-------------------------------For WWN Details-------------------------------
+gearhead is a VM
+-------------------------------Information about login users-------------------------------
+List of Currently Login users 16:58:24 up 1:55, 1 user, load average: 0.13, 0.17, 0.23 USER TTY FROM LOGIN@ IDLE JCPU PCPU WHAT gearhead tty7 :0 15:03 1:55m 10:56 1.33s xfce4-session
+List of USER ACCOUNT
+root:x:0:0:root:/root:/usr/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+_apt:x:102:65534::/nonexistent:/usr/sbin/nologin
+mysql:x:103:110:MySQL Server,,,:/nonexistent:/bin/false
+tss:x:104:111:TPM software stack,,,:/var/lib/tpm:/bin/false
+strongswan:x:105:65534::/var/lib/strongswan:/usr/sbin/nologin
+systemd-timesync:x:106:112:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+redsocks:x:107:113::/var/run/redsocks:/usr/sbin/nologin
+rwhod:x:108:65534::/var/spool/rwho:/usr/sbin/nologin
+iodine:x:109:65534::/run/iodine:/usr/sbin/nologin
+messagebus:x:110:114::/nonexistent:/usr/sbin/nologin
+miredo:x:111:65534::/var/run/miredo:/usr/sbin/nologin
+_rpc:x:112:65534::/run/rpcbind:/usr/sbin/nologin
+usbmux:x:113:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+tcpdump:x:114:120::/nonexistent:/usr/sbin/nologin
+rtkit:x:115:121:RealtimeKit,,,:/proc:/usr/sbin/nologin
+sshd:x:116:65534::/run/sshd:/usr/sbin/nologin
+dnsmasq:x:117:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+statd:x:118:65534::/var/lib/nfs:/usr/sbin/nologin
+avahi:x:119:125:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+nm-openvpn:x:120:126:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+stunnel4:x:121:127::/var/run/stunnel4:/usr/sbin/nologin
+nm-openconnect:x:122:128:NetworkManager OpenConnect plugin,,,:/var/lib/NetworkManager:/usr/sbin/nologin
+Debian-snmp:x:123:129::/var/lib/snmp:/bin/false
+speech-dispatcher:x:124:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+sslh:x:125:130::/nonexistent:/usr/sbin/nologin
+postgres:x:126:131:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
+pulse:x:127:132:PulseAudio daemon,,,:/run/pulse:/usr/sbin/nologin
+saned:x:128:135::/var/lib/saned:/usr/sbin/nologin
+inetsim:x:129:137::/var/lib/inetsim:/usr/sbin/nologin
+lightdm:x:130:138:Light Display Manager:/var/lib/lightdm:/bin/false
+colord:x:131:139:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+geoclue:x:132:140::/var/lib/geoclue:/usr/sbin/nologin
+Debian-gdm:x:133:141:Gnome Display Manager:/var/lib/gdm3:/bin/false
+king-phisher:x:134:142::/var/lib/king-phisher:/usr/sbin/nologin
+gearhead:x:1000:1000:gearhead,,,:/home/gearhead:/usr/bin/zsh
+LIST OF USER NAME ONLY
+root
+daemon
+bin
+sys
+sync
+games
+man
+lp
+mail
+news
+uucp
+proxy
+www-data
+backup
+list
+irc
+gnats
+nobody
+systemd-network
+systemd-resolve
+_apt
+mysql
+tss
+strongswan
+systemd-timesync
+redsocks
+rwhod
+iodine
+messagebus
+miredo
+_rpc
+usbmux
+tcpdump
+rtkit
+sshd
+dnsmasq
+statd
+avahi
+nm-openvpn
+stunnel4
+nm-openconnect
+Debian-snmp
+speech-dispatcher
+sslh
+postgres
+pulse
+saned
+inetsim
+lightdm
+colord
+geoclue
+Debian-gdm
+king-phisher
+gearhead
+-----------------------------------------------------------------------------
